@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Projekt01", "Projekt01\Projekt01.dwproj", "{1D490B60-85BF-4ACE-A2FB-A87F80E1D083}"
 EndProject
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Projekt02", "Projekt02\Projekt02.dwproj", "{BEFDA26D-9A7D-4FF9-B3D1-8F513124043B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Development|Default = Development|Default
@@ -13,6 +15,9 @@ Global
 		{1D490B60-85BF-4ACE-A2FB-A87F80E1D083}.Development|Default.ActiveCfg = Development
 		{1D490B60-85BF-4ACE-A2FB-A87F80E1D083}.Development|Default.Build.0 = Development
 		{1D490B60-85BF-4ACE-A2FB-A87F80E1D083}.Development|Default.Deploy.0 = Development
+		{BEFDA26D-9A7D-4FF9-B3D1-8F513124043B}.Development|Default.ActiveCfg = Development
+		{BEFDA26D-9A7D-4FF9-B3D1-8F513124043B}.Development|Default.Build.0 = Development
+		{BEFDA26D-9A7D-4FF9-B3D1-8F513124043B}.Development|Default.Deploy.0 = Development
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
